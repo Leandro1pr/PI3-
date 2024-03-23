@@ -1,9 +1,10 @@
 
 # Proposta de Tema de PI3
-Título: Derretedor de metais uilizando corrente elétrica
+Título: Derretedor de metais utilizando corrente elétrica
 
 Aluno(s): Leandro Romani
-Orientador: Saimon
+
+Orientador: Saimon Miranda Fagundes
 
 # Objetivo geral
  Desenvolver um circuito para derreter metais utilizando corrente elétrica.
