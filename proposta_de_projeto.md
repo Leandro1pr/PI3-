@@ -19,7 +19,7 @@ Orientador: Saimon Miranda Fagundes
 # Metodologia
  O projeto consiste numa fonte de alta corrente de saída, que terá como carga algum artefato metalico. Através de uma corrente elevada, será possivel derreter o objeto metálico devido a sua alta temperatura causada pela passagem da corrente por sua estrutura. Com base nisso o circuito final pode ser separado em blocos pelo qual é definido por suas funções:
 
-- O circuito elevador de corrente;
+ - O circuito elevador de corrente;
   - Controle e medição;
   - Suporte de instalação da fonte de corrente e uma bancada de teste.
 
