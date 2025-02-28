@@ -38,4 +38,4 @@ R= V/Is(pico)=2,5/0,0707=35,35 ohm
 
 Os resistores que estavam disponíveis para o projeto no momento eram de 100 Ohm, logo foi utilizado 3 resistores 
 ]de 100 Ohm ligados em paralelo, em que teve-se como um equivalente:
-Req=100/3=33,33 Ohm 
+Req=100/3=33,33 Ohm
