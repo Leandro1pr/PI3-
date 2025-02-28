@@ -1,14 +1,14 @@
-Os trabalhos relacionados a derretedor de metal, em sua maioria foram encontrados em trabalhos pelo qual pretendia-se construir uma máquina de solda, que é uma 
-das principais aplicações de fontes de altas correntes que é o objetivo do projeto. Nesse aspecto, em (CUNHA, 2019) o objetivo era criar uma máquina de solda 
-de baixo custo de dois tipos, utilizando um transformador de microondas  para alcançar as tensões e  correntes pretendidas. Utilizando a característica do 
-transformador em relação a elevação de corrente, o transformador foi alterado retirando uma das bobinas e enrolando em poucas voltas, um cabo de uma seção maior 
-para alcançar a corrente pretendida. O resultado foi a queda do custo para a realização do projeto e segundo o artigo, totalmente eficaz, apesar de os componentes 
-serem reaproveitados. 
+- Os trabalhos relacionados a derretedor de metal, em sua maioria foram encontrados em trabalhos pelo qual pretendia-se construir uma máquina de solda, que é uma 
+- das principais aplicações de fontes de altas correntes que é o objetivo do projeto. Nesse aspecto, em (CUNHA, 2019) o objetivo era criar uma máquina de solda 
+- de baixo custo de dois tipos, utilizando um transformador de microondas  para alcançar as tensões e  correntes pretendidas. Utilizando a característica do 
+- transformador em relação a elevação de corrente, o transformador foi alterado retirando uma das bobinas e enrolando em poucas voltas, um cabo de uma seção maior 
+- para alcançar a corrente pretendida. O resultado foi a queda do custo para a realização do projeto e segundo o artigo, totalmente eficaz, apesar de os componentes 
+- serem reaproveitados. 
 
-Em (COSTA, 2018) a fonte de corrente tem como objetivo alimentar uma máquina de corte a plasma. Neste caso, a corrente de saída é uma corrente CC de 60 A. 
-Neste projeto foi implementado também o transformador e as seções dos condutores que foram utilizados para o projeto bem como um circuito de controle para a corrente.
-Apesar de um bom desempenho do protótipo, foi aconselhável uma melhoria da proteção contra sobre corrente, para obter uma maior segurança do protótipo.
+- Em (COSTA, 2018) a fonte de corrente tem como objetivo alimentar uma máquina de corte a plasma. Neste caso, a corrente de saída é uma corrente CC de 60 A. 
+- Neste projeto foi implementado também o transformador e as seções dos condutores que foram utilizados para o projeto bem como um circuito de controle para a corrente.
+- Apesar de um bom desempenho do protótipo, foi aconselhável uma melhoria da proteção contra sobre corrente, para obter uma maior segurança do protótipo.
 
-Em (MORAIS, 2006) foi projetada uma fonte de corrente programável para instrumentos de medição. Uma das características foi o inversor e o sistema de controle baseada
-em PWM. Para o controle foi utilizado uma faixa de corrente para a operação em que a máxima corrente disponível na saída da fonte foi de 200A(rms),
-a mudança na corrente é feita pelos taps do transformador no qual muda a relação de espiras e consequentemente a quantidade de corrente no secundário.
+- Em (MORAIS, 2006) foi projetada uma fonte de corrente programável para instrumentos de medição. Uma das características foi o inversor e o sistema de controle baseada
+- em PWM. Para o controle foi utilizado uma faixa de corrente para a operação em que a máxima corrente disponível na saída da fonte foi de 200A(rms),
+- a mudança na corrente é feita pelos taps do transformador no qual muda a relação de espiras e consequentemente a quantidade de corrente no secundário.
