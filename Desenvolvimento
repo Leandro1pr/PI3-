@@ -1,4 +1,4 @@
-# Circuito elevador de corrente
+#Circuito elevador de corrente
 
 O projeto se iniciou com  aquisão do transformador, pelo qual será o responsável pela obtenção 
 das correntes especificadas na etapa anterior deste projeto. O objetivo foi a retirada de um 
@@ -15,7 +15,7 @@ e 1326 A. Neste primeiro teste pôde obter além das tensões  a relação de es
 N1/N2= V1/V2
 Resultando em 95,65 como sendo a relação entres as tensões doprimário (220V) e secundário(2,3V).
 
-# Leitura de tensão e corrente
+#Leitura de tensão e corrente
 Para o circuito de leitura de tensão e corrente, foi utilizado além dos sensores de tensão  corrente, um
 arduino uno, pelo qual foi utilizado para a leitura e disponibilização  num display LCD de 16x2. Para a 
 leitura da tensão, o módulo sensor utilizado foi ZMPT101b, que tem como intervalo de tensão a ser lida 
