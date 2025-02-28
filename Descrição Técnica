@@ -11,4 +11,4 @@ Apesar de um bom desempenho do protótipo, foi aconselhável uma melhoria da pro
 
 Em (MORAIS, 2006) foi projetada uma fonte de corrente programável para instrumentos de medição. Uma das características foi o inversor e o sistema de controle baseada
 em PWM. Para o controle foi utilizado uma faixa de corrente para a operação em que a máxima corrente disponível na saída da fonte foi de 200A(rms),
-a mudança na corrente é feita pelos taps do transformador no qual muda a relação de espiras e consequentemente a quantidade de corrente no secundário. 
+a mudança na corrente é feita pelos taps do transformador no qual muda a relação de espiras e consequentemente a quantidade de corrente no secundário.
